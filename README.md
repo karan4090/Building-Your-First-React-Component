@@ -58,26 +58,7 @@ Feel free to modify the components or styles to explore React further.
 Folder Structure
 Here’s an overview of the project’s folder structure:
 
-css
-Copy code
-my-first-react-app/
-├── public/
-├── src/
-│   ├── components/       # React components
-│   │   ├── Header.jsx
-│   │   ├── Main.jsx
-│   │   ├── Footer.jsx
-│   ├── styles/           # CSS styles
-│   │   ├── App.css
-│   │   ├── Header.css
-│   │   ├── Main.css
-│   │   ├── Footer.css
-│   ├── App.jsx           # Main app component
-│   ├── main.jsx          # React entry point
-├── package.json          # Project configuration and dependencies
-├── README.md             # Project documentation
-Contributing
-Contributions are welcome! To contribute:
+
 
 Fork the repository.
 Create a new branch for your feature:
